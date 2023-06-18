@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/rijulJain25/Ethnus_React_Task2.git/static/css/main.719ccb51.chunk.css",
-    "main.js": "/rijulJain25/Ethnus_React_Task2.git/static/js/main.0ce68e1a.chunk.js",
-    "main.js.map": "/rijulJain25/Ethnus_React_Task2.git/static/js/main.0ce68e1a.chunk.js.map",
-    "runtime-main.js": "/rijulJain25/Ethnus_React_Task2.git/static/js/runtime-main.1732089e.js",
-    "runtime-main.js.map": "/rijulJain25/Ethnus_React_Task2.git/static/js/runtime-main.1732089e.js.map",
-    "static/js/2.772c2dd3.chunk.js": "/rijulJain25/Ethnus_React_Task2.git/static/js/2.772c2dd3.chunk.js",
-    "static/js/2.772c2dd3.chunk.js.map": "/rijulJain25/Ethnus_React_Task2.git/static/js/2.772c2dd3.chunk.js.map",
-    "index.html": "/rijulJain25/Ethnus_React_Task2.git/index.html",
-    "precache-manifest.8c86df8f874c9bd5aa1866901ec17d59.js": "/rijulJain25/Ethnus_React_Task2.git/precache-manifest.8c86df8f874c9bd5aa1866901ec17d59.js",
-    "service-worker.js": "/rijulJain25/Ethnus_React_Task2.git/service-worker.js",
-    "static/css/main.719ccb51.chunk.css.map": "/rijulJain25/Ethnus_React_Task2.git/static/css/main.719ccb51.chunk.css.map",
-    "static/js/2.772c2dd3.chunk.js.LICENSE.txt": "/rijulJain25/Ethnus_React_Task2.git/static/js/2.772c2dd3.chunk.js.LICENSE.txt"
+    "main.css": "/Ethnus_React_Task2/static/css/main.719ccb51.chunk.css",
+    "main.js": "/Ethnus_React_Task2/static/js/main.3c791599.chunk.js",
+    "main.js.map": "/Ethnus_React_Task2/static/js/main.3c791599.chunk.js.map",
+    "runtime-main.js": "/Ethnus_React_Task2/static/js/runtime-main.bf398319.js",
+    "runtime-main.js.map": "/Ethnus_React_Task2/static/js/runtime-main.bf398319.js.map",
+    "static/js/2.772c2dd3.chunk.js": "/Ethnus_React_Task2/static/js/2.772c2dd3.chunk.js",
+    "static/js/2.772c2dd3.chunk.js.map": "/Ethnus_React_Task2/static/js/2.772c2dd3.chunk.js.map",
+    "index.html": "/Ethnus_React_Task2/index.html",
+    "precache-manifest.3d4ff7d26d21dcb36d3193ad34c31f64.js": "/Ethnus_React_Task2/precache-manifest.3d4ff7d26d21dcb36d3193ad34c31f64.js",
+    "service-worker.js": "/Ethnus_React_Task2/service-worker.js",
+    "static/css/main.719ccb51.chunk.css.map": "/Ethnus_React_Task2/static/css/main.719ccb51.chunk.css.map",
+    "static/js/2.772c2dd3.chunk.js.LICENSE.txt": "/Ethnus_React_Task2/static/js/2.772c2dd3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1732089e.js",
+    "static/js/runtime-main.bf398319.js",
     "static/js/2.772c2dd3.chunk.js",
     "static/css/main.719ccb51.chunk.css",
-    "static/js/main.0ce68e1a.chunk.js"
+    "static/js/main.3c791599.chunk.js"
   ]
 }
